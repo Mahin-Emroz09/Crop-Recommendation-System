@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that implements a Crop Recommendatio
 
 ## Introduction
 This project is a crop recommendation system that leverages machine learning algorithms to provide farmers with recommendations on the most suitable crops to grow based on environmental and soil conditions.
-# Installation
+## Installation
 
 To run the notebook, you need to have the following libraries installed:
 
