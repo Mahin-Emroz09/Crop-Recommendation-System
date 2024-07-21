@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Mahin-EMroz09/crop_recommendation_system.git
+git clone https://github.com/Mahin-Emroz09/Crop-Recommendation-System.git
 ```
 
 2. Navigate to the project directory:
