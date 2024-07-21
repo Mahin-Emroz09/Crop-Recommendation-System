@@ -75,9 +75,9 @@ The results of the model training and evaluation are displayed within the notebo
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+##Contact
 
-This project is licensed under the MIT License.
+For any inquiries or questions, please contact  at emroz1309@gmail.com
 
----
+
 
