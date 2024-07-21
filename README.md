@@ -62,9 +62,8 @@ The results of the model training and evaluation are displayed within the notebo
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-##Contact
+## Contact
 
 For any inquiries or questions, please contact  at emroz1309@gmail.com
-
 
 
